@@ -1,0 +1,54 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+body {
+  
+  //lastit
+  background-size: 100% 100%;
+  background-color: #292C33;
+  padding:50px;
+  font: 14px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  color:#ffd1dc;
+  font-weight:400;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color:#ffffff;
+  margin:0 0 20px;
+}
+
+h2 {
+  color:#ffffff;
+}
+
+h3, h4, h5, h6 {
+  color:#ffffff;
+}
+
+a {
+  color: #dff1d6;
+  font-weight: bold;
+  text-decoration:none;
+}
+
+a:hover, a:focus {
+  color: #bfffc9;
+}
+
+a small {
+  font-size:11px;
+  color:#ffd1dc;
+  margin-top:-0.3em;
+  display:block;
+}
+
+a:hover small {
+  color:#aaf0d1;
+}
+
+strong {
+  color:#ffffff;
+  font-weight:700;
+}
