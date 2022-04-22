@@ -8,9 +8,9 @@ CX7: AIML \| Security \| Policy
 
 ## *>> Bleeding edge:*
 
-### [*Securing AIML Systems in the Age of Information Warfare >>*](https://cx7.dev/technicals/1.html) **Coming soon**
+### [*Securing AIML Systems in the Age of Information Warfare >>*](https://cx7.dev/technicals/1.pdf) **Coming soon**
 
-A practical blueprint for measuring & increasing cyber resiliency of AIML systems in the adversarial Information Warfare environment [*more >>*](https://cx7.dev/technicals/1.html)
+A practical blueprint for measuring & increasing cyber resiliency of AIML systems in the adversarial Information Warfare environment [*more >>*](https://cx7.dev/technicals/1.pdf)
 
 -----
 
