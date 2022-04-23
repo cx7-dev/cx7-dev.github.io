@@ -15,3 +15,5 @@ Applied AIML research, Updates on the state of the art, Best practices for secur
 ## Security: infosec, cyberwarfare, and applied AIML  [*coming soon >>*](https://cx7.dev/research/security.html) 
 
 Offensive, Defensive, Kinetic & Cyber AI security applications with a focus on ethics and sustainability  [*more >>*](https://cx7.dev/research/security.html)
+
+-------
