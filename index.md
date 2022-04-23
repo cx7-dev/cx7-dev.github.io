@@ -13,6 +13,8 @@ CX7: AIML \| Security \| Policy
 A practical blueprint for measuring & increasing cyber resiliency of AIML systems in the adversarial Information Warfare environment 
 *<a href="https://cx7.dev/technicals/Securing_AIML_Systems_in_IW_Cox.pdf" target="_blank" rel="noopener noreferrer">more >> </a>*
 
+-----
+
 ### [*A "New Monroe Doctrine" for the Law of Armed Conflict (LOAC) and the Use of Force in Cyberspace: Colonial Interests, US & Russian Expansionism, and The United States Doctrine >>*](https://cx7.dev/papers/2_New_Monroe_Doctrine_Cox.html) **2022.04.05**
 
 Competing American expansionisms & the colonial roots of modern US cyber policy [*more >>*](https://cx7.dev/papers/2_New_Monroe_Doctrine_Cox.html)
