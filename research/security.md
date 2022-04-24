@@ -1,6 +1,8 @@
 [home](https://cx7.dev/) / [research areas](https://cx7.dev/research/home.html) / **security**
 
-# Research area: security -- infosec, cyberwarfare, and applied MLAI 
+# Research area: security -- infosec, cyberwarfare, and applied MLAI
+
+-----
 
 [Go to all by date >>](https://cx7.dev/research/by_date.html)
 
