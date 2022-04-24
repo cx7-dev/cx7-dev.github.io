@@ -2,6 +2,8 @@
 
 # Research area: public policy - where algorithms & people meet
 
+-----
+
 [Go to all by date >>](https://cx7.dev/research/by_date.html)
 
 -----
