@@ -4,6 +4,8 @@
 
 ### [Susanna Cox](https://cx7.dev/contact.html) | *2022/03/22*
 
+-----
+
 ### *<a href="https://cx7.dev/backgrounders/1_Ukraine_Cox.pdf" target="_blank" rel="noopener noreferrer">Download PDF >> </a>*
 
 -----
