@@ -4,7 +4,7 @@
 
 -----
 
-[Go to all by date >>](https://cx7.dev/research/by_date.html)
+[All research by date >>](https://cx7.dev/research/by_date.html)
 
 -----
 
