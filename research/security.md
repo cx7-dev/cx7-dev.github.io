@@ -2,7 +2,7 @@
 
 # Research area: security -- infosec, cyberwarfare, and applied MLAI 
 
-[Go to subtopics >>](https://cx7.dev/research/topics.html)
+[Go to all by date >>](https://cx7.dev/research/by_date.html)
 
 -----
 
