@@ -1,6 +1,8 @@
 [home](https://cx7.dev/) / [research areas](https://cx7.dev/research/home.html) / **all by date**
 
-# Research: all by date 
+# Research: all by date
+
+-----
 
 [Back to research areas >>](https://cx7.dev/research/home.html)
 
