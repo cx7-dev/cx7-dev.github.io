@@ -4,6 +4,8 @@
 
 ### [Susanna Cox](https://cx7.dev/contact.html) | *2022/03/22*
 
+-----
+
 ### *<a href="https://cx7.dev/papers/1_PreSoviet_IW_Cox.pdf" target="_blank" rel="noopener noreferrer">Download PDF >> </a>*
 
 -----
