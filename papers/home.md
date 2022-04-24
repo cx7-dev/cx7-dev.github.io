@@ -2,7 +2,9 @@
 
 # Papers by date
 
-[Go to subtopics >>](https://cx7.dev/research/topics.html)
+-----
+
+[Go to all by date >>](https://cx7.dev/research/by_date.html)
 
 -----
 
