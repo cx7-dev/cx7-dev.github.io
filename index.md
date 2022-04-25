@@ -5,7 +5,9 @@
 
 # At the intersections of [artificial intelligence](https://cx7.dev/research/AIML.html), [security](https://cx7.dev/research/security.html),  [policy](https://cx7.dev/research/policy.html), & people
 
-# [*Explore research >>*](https://cx7.dev/research/home.html) 
+-----
+
+# *<a href="https://cx7.dev/research/home.html" target="_blank" rel="noopener noreferrer">Explore research >></a>*
 
 -----
 
