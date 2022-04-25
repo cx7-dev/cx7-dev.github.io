@@ -3,11 +3,11 @@
 <a href="https://cx7.dev/research/security.html" target="_blank" rel="noopener noreferrer">security</a> \| 
 <a href="https://cx7.dev/research/policy.html" target="_blank" rel="noopener noreferrer">policy</a> \| **people**
 
-# At the intersections of [artificial intelligence](https://cx7.dev/research/AIML.html), [security](https://cx7.dev/research/security.html),  [policy](https://cx7.dev/research/policy.html), & people
+# At the intersections of <a href="https://cx7.dev/research/AIML.html" target="_blank" rel="noopener noreferrer">artificial intelligence</a>, <a href="https://cx7.dev/research/security.html" target="_blank" rel="noopener noreferrer">security</a>,  <a href="https://cx7.dev/research/policy.html" target="_blank" rel="noopener noreferrer">policy</a>, & people
 
 -----
 
-## *<a href="https://cx7.dev/research/home.html" target="_blank" rel="noopener noreferrer">Explore research >></a>*
+## [*Explore research >>*](https://cx7.dev/research/home.html)
 
 -----
 
