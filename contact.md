@@ -1,8 +1,6 @@
 [home](https://cx7.dev/) / **contact**
 
-# Contact via [email](mailto:cox@cx7.dev),  <a href="tel:123-456-7890">phone</a>, & <a href="https://twitter.com/cx7_dev" target="_blank" rel="noopener noreferrer">social media</a> 
-
-# *<a href="https://cx7.dev/key.html" target="_blank" rel="noopener noreferrer">Public key >></a>*
+# Contact via [email](mailto:cox@cx7.dev),  <a href="tel:123-456-7890">phone</a>, <a href="https://twitter.com/cx7_dev" target="_blank" rel="noopener noreferrer">social media</a>, & <a href="https://cx7.dev/key.html" target="_blank" rel="noopener noreferrer">Public key </a>
 
 
 -----
