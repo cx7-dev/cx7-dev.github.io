@@ -5,9 +5,6 @@
 
 -----
 
-## *<a href="https://cx7.dev/key.html" target="_blank" rel="noopener noreferrer">Public key >></a>*
-
-
 ## *<a href="https://cx7.dev/Susanna_Cox_Resume.pdf" target="_blank" rel="noopener noreferrer">Resume >></a>*
 
 -----
