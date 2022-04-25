@@ -1,4 +1,7 @@
-[AIML](https://cx7.dev/research/AIML.html) \| [Security](https://cx7.dev/research/security.html) \| [Policy](https://cx7.dev/research/policy.html) \| **People**
+
+<a href="https://cx7.dev/research/AIML.html" target="_blank" rel="noopener noreferrer">AIML</a> \| 
+<a href="https://cx7.dev/research/security.html" target="_blank" rel="noopener noreferrer">Security</a> \| 
+<a href="https://cx7.dev/research/policy.html" target="_blank" rel="noopener noreferrer">Policy</a> \| **People**
 
 # At the intersections of [artificial intelligence](https://cx7.dev/research/AIML.html), [security](https://cx7.dev/research/security.html),  [policy](https://cx7.dev/research/policy.html), & people
 
