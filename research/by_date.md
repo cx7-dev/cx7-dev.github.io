@@ -4,7 +4,7 @@
 
 -----
 
-*[Back to research areas >>](https://cx7.dev/research/home.html)*
+[All research by topic >>](https://cx7.dev/research/home.html)
 
 -----
 
