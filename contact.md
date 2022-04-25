@@ -24,6 +24,8 @@
 
 ### Github: <a href="https://github.com/cx7-dev" target="_blank" rel="noopener noreferrer">https://github.com/cx7-dev >> </a>
 
+### <a href="https://cx7.dev/key.html" target="_blank" rel="noopener noreferrer">Public key >></a>
+
 -----
 
 **ᎦᏙᎯ:** CX7 research takes place on <a href="https://ebci.com/" target="_blank" rel="noopener noreferrer">Cherokee land >> </a>
