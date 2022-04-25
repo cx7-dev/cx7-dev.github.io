@@ -7,11 +7,11 @@
 
 -----
 
-# *<a href="https://cx7.dev/research/home.html" target="_blank" rel="noopener noreferrer">Explore research >></a>*
+## *<a href="https://cx7.dev/research/home.html" target="_blank" rel="noopener noreferrer">Explore research >></a>*
 
 -----
 
-## *>> Bleeding edge:*
+# *>> Bleeding edge:*
 
 ### *<a href="https://cx7.dev/technicals/Securing_AIML_Systems_in_IW_Cox.pdf" target="_blank" rel="noopener noreferrer">Securing AIML Systems in the Age of Information Warfare >> </a>* **2022.04.20**
 
