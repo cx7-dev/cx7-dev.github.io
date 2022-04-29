@@ -3,7 +3,7 @@
 
 # A "New Monroe Doctrine" for the Law of Armed Conflict (LOAC) and the Use of Force in Cyberspace:  Colonial Interests, US & Russian Expansionism, and The United States Doctrine
 
-### [Susanna Cox](https://cx7.dev/contact.html) | *2022/04/05*
+### <a href="https://cx7.dev/contact.html" target="_blank" rel="noopener noreferrer">Susanna Cox </a> | *2022/03/22*
 
 -----
 
