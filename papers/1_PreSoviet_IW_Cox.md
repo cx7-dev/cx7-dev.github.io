@@ -2,7 +2,7 @@
 
 # Pre-Soviet Trajectories for Digital Warfare: Situating the Early 2022 Ukraine Cyber Attacks Within Russian-Leninist Information Warfare Analysis
 
-### [Susanna Cox](https://cx7.dev/contact.html) | *2022/03/22*
+### <a href="https://cx7.dev/contact.html" target="_blank" rel="noopener noreferrer">Susanna Cox </a> | *2022/03/22*
 
 -----
 
