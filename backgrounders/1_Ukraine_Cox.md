@@ -2,7 +2,7 @@
 
 # Ukraine Backgrounder: Resources & Reforms, Post-Soviet Period and Global Financial Crisis to the Annexation of Crimea
 
-### [Susanna Cox](https://cx7.dev/contact.html) | *2022/03/22*
+### <a href="https://cx7.dev/contact.html" target="_blank" rel="noopener noreferrer">Susanna Cox </a> | *2022/03/22*
 
 -----
 
