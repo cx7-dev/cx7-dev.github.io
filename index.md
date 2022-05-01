@@ -20,6 +20,10 @@ A practical blueprint for measuring & increasing cyber resiliency of AIML system
 
 -----
 
+### [*10 Takeaways On Diplomacy, War, And Cyber Operations From The Microsoft Special Report On Ukraine >>*](https://cx7.dev/backgrounders/2_10_Takeaways_MS_Ukraine_Cox.html) **2022.05.01**
+
+The scale and scope of the Russian-Ukrainian cyber offensive are staggering--with attacks directly tied to key political events & kinetic actions on the ground. Here are ten critical takeaways for organizations now [*more >>*](https://cx7.dev/backgrounders/2_10_Takeaways_MS_Ukraine_Cox.html)
+
 ### [*A "New Monroe Doctrine" for the Law of Armed Conflict (LOAC) and the Use of Force in Cyberspace: Colonial Interests, US & Russian Expansionism, and The United States Doctrine >>*](https://cx7.dev/papers/2_New_Monroe_Doctrine_Cox.html) **2022.04.05**
 
 Competing American expansionisms & the colonial roots of modern US cyber policy [*more >>*](https://cx7.dev/papers/2_New_Monroe_Doctrine_Cox.html)
