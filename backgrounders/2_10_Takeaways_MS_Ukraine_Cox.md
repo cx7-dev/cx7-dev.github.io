@@ -59,7 +59,7 @@ In fact the scale of infiltration was so great as of January 2022 that Microsoft
 *Given the scale of the observed intrusions, MSTIC is not able to assess intent of the identified destructive actions but does believe these actions represent an elevated risk to any government agency, non-profit or enterprise located or with systems in Ukraine.*
  
 
-**5. Russian Information Warfare has been conducted in concert with kinetic, on-the-ground military actions**
+**5. Russian Information Warfare has been conducted in concert with kinetic, on-the-ground military actions.**
 
 
 The Microsoft report acknowledges that cyber offensives appear to directly correlate to kinetic military operations–and directly mentions the use of Information Warfare to “shake confidence” in Ukrainian leadership as a tactic:
