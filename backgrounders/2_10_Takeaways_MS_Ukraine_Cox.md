@@ -92,7 +92,7 @@ Attacks started immediately before the invasion began, and have continued at a p
 The report documented more attacks against the United States than any other country by far, receiving 46% of cyber attacks. Ukraine ranked second, at 19% (fig 2).
 
 
-![figure 2: Most targeted countries. Source: Microsoft. https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4Vwwd](/backgrounders/assets/2_10_Takeaways_MS_Ukraine_Cox_fig_2.png)
+[![figure 2: Most targeted countries. Source: Microsoft. https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4Vwwd](/backgrounders/assets/2_10_Takeaways_MS_Ukraine_Cox_fig_2.png)](/backgrounders/assets/2_10_Takeaways_MS_Ukraine_Cox_fig_2.png)
 
 
 *Figure 2. Most targeted countries. Source: [Microsoft](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4Vwwd).*
@@ -103,7 +103,7 @@ The report documented more attacks against the United States than any other coun
 Initial deployment of the WhisperGate wiper began immediately after the failure of diplomatic talks January 13th, followed immediately January 14th by DEV-0586 defacements and still-unattributed DDoS attacks against Ukrainian government websites. Timeline analysis shows attacks are closely correlated to diplomatic failure points (fig 3).
 
 
-![figure 3: Timeline of political-military events and cyberattacks. Source: Microsoft. https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4Vwwd](/backgrounders/assets/2_10_Takeaways_MS_Ukraine_Cox_fig_3.png)
+[![figure 3: Timeline of political-military events and cyberattacks. Source: Microsoft. https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4Vwwd](/backgrounders/assets/2_10_Takeaways_MS_Ukraine_Cox_fig_3.png)](/backgrounders/assets/2_10_Takeaways_MS_Ukraine_Cox_fig_3.png)
 
 
 *Figure 3. Timeline of political-military events and cyberattacks. Source: [Microsoft](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4Vwwd).*
