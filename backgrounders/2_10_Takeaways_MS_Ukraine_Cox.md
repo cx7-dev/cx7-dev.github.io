@@ -23,7 +23,7 @@ Russian security is officially handled by three agencies, each with its own area
 
 
 *Figure 1. Rusian security organizations involved in cyber actions. Source: 
-<a href="https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4Vwwd" target="_blank" rel="noopener noreferrer">Microsoft</a>
+<a href="https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4Vwwd" target="_blank" rel="noopener noreferrer">Microsoft</a>*
 
 
 **2. Attacks allowed both immediate access for damage and exfiltration, and persistence for longer term espionage and access.**
