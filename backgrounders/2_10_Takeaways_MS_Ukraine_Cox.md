@@ -22,7 +22,7 @@ Russian security is officially handled by three agencies, each with its own area
 ![figure 1: Rusian security organizations involved in cyber actions. Source: Microsoft. https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4Vwwd](/backgrounders/assets/2_10_Takeaways_MS_Ukraine_Cox_fig_1.png)
     
 
-*Figure 1. Rusian security organizations involved in cyber actions. Source: Microsoft. https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4Vwwd*
+*Figure 1. Rusian security organizations involved in cyber actions. Source: [Microsoft](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4Vwwd).*
 
 
 **2. Attacks allowed both immediate access for damage and exfiltration, and persistence for longer term espionage and access.**
@@ -94,8 +94,7 @@ The report documented more attacks against the United States than any other coun
 ![figure 2: Most targeted countries. Source: Microsoft. https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4Vwwd](/backgrounders/assets/2_10_Takeaways_MS_Ukraine_Cox_fig_2.png)
 
 
-*Figure 2. Most targeted countries. Source: Microsoft. https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4Vwwd*
-
+*Figure 2. Most targeted countries. Source: [Microsoft](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4Vwwd).*
 
 **9. Information Warfare and other cyber attacks are correlated with political events.**
 
@@ -106,7 +105,7 @@ Initial deployment of the WhisperGate wiper began immediately after the failure 
 ![figure 3: Timeline of political-military events and cyberattacks. Source: Microsoft. https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4Vwwd](/backgrounders/assets/2_10_Takeaways_MS_Ukraine_Cox_fig_3.png)
 
 
-*Figure 3. Timeline of political-military events and cyberattacks. Source: Microsoft. https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4Vwwd
+*Figure 3. Timeline of political-military events and cyberattacks. Source: [Microsoft](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4Vwwd).*
 
 
 **10. Attacks in early 2022 signaled the imminent invasion, and may have been intended to prompt diplomatic concessions.**
