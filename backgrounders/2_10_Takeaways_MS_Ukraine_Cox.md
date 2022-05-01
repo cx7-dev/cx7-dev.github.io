@@ -19,7 +19,7 @@ On 27 April 2022, Microsoft released a special [report on cyber operations in Uk
 Russian security is officially handled by three agencies, each with its own area(s) of operations.  These are the Foreign Intelligence Service / *Служба внешней разведки Российской Федерации* (SVR RF), which handles external intelligence gathering and espionage; the GRU RF, or *Гла́вное управле́ние Генера́льного шта́ба Вооружённых сил Росси́йской Федера́ции*, operating in the military intelligence domain; and the Federal Security Service (FSB RF), or *Федеральная служба безопасности Российской Федерации*, considered to be the successor agency to the KGB. All three agencies were listed in the Microsoft report as linked to attacks on Ukrainian targets (fig 1).
 
 
-![figure 1: Rusian security organizations involved in cyber actions. Source: Microsoft. https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4Vwwd](/backgrounders/assets/2_10_Takeaways_MS_Ukraine_Cox_fig_1.png)
+[![figure 1: Rusian security organizations involved in cyber actions. Source: Microsoft. https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4Vwwd](/backgrounders/assets/2_10_Takeaways_MS_Ukraine_Cox_fig_1.png)](/backgrounders/assets/2_10_Takeaways_MS_Ukraine_Cox_fig_1.png)
 
 
 *Figure 1. Rusian security organizations involved in cyber actions. Source: 
