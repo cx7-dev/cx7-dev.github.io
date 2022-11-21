@@ -1,30 +1,13 @@
 [home](https://cx7.dev/) / **contact**
 
-# Contact via [email](mailto:cox@cx7.dev),  <a href="tel:123-456-7890">phone</a>, <a href="https://twitter.com/cx7_dev" target="_blank" rel="noopener noreferrer">social media</a>, & <a href="https://cx7.dev/key.html" target="_blank" rel="noopener noreferrer">public key </a>
+# Contact: [email](mailto:disesdi@pm.me) & <a href="https://cx7.dev/key.html" target="_blank" rel="noopener noreferrer">public key </a>
 
 
 -----
-
-## *<a href="https://cx7.dev/Susanna_Cox_Resume.pdf" target="_blank" rel="noopener noreferrer">Resume >></a>*
-
------
-
-
-### Email: <a href="mailto:cox@cx7.dev" target="_blank" rel="noopener noreferrer">cox@cx7.dev >></a> 
-
 
 ### Phone:  <a href="tel:+1669-288-0919">+1  669 . 288 . 0919 >></a>
 
-
-### Telegram: [@cx7_dev >>](https://t.me/cx7_dev)
-
-
-### Twitter: <a href="https://twitter.com/cx7_dev" target="_blank" rel="noopener noreferrer">@cx7_dev >></a>
-
-
 ### Github: <a href="https://github.com/cx7-dev" target="_blank" rel="noopener noreferrer">https://github.com/cx7-dev >> </a>
-
-### <a href="https://cx7.dev/key.html" target="_blank" rel="noopener noreferrer">Public key >></a>
 
 -----
 
